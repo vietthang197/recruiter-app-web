@@ -1,0 +1,53 @@
+.popover___3CK4c {
+  width: 336px;
+}
+.list___1Bcfk .item___1UQri .meta___17ay5 {
+  width: 100%;
+}
+.ant-list-item-meta {
+  display: flex;
+  flex: 1 1;
+  align-items: flex-start;
+  max-width: 100%;
+}
+
+.ant-list-item-meta-avatar {
+  margin-right: 16px;
+}
+
+.ant-avatar {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: rgba(0,0,0,.85);
+  font-size: 14px;
+  font-variant: tabular-nums;
+  line-height: 1.5715;
+  list-style: none;
+  font-feature-settings: "tnum","tnum";
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  color: #fff;
+  white-space: nowrap;
+  text-align: center;
+  vertical-align: middle;
+  background: #ccc;
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+  border-radius: 50%;
+}
+
+.ant-list-item-meta-content {
+  flex: 1 0;
+  width: 0;
+  color: rgba(0,0,0,.85);
+}
+
+.ant-list-item-meta-title {
+  margin-bottom: 4px;
+  color: rgba(0,0,0,.85);
+  font-size: 14px;
+  line-height: 1.5715;
+}
